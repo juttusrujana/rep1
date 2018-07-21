@@ -1,4 +1,3 @@
- Volume in drive C has no label.
  Volume Serial Number is 70C3-0FA4
 
  Directory of C:\jenkins\myproject
